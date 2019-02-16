@@ -67,7 +67,7 @@
 使用aflow数据对模型训练的得到的结果如下
 
 <p align="center">
-    <img src="model.png" width="100%">
+    <img src="MAE.png" width="100%">
 </p>
 
 其它已发表的机器学习模型的结果对比如下
@@ -77,7 +77,7 @@
 |   MEGNet[6]          |        0.32   |
 |   CGCNN[7]           |         0.388 |
 |   PLMF[8]            |         0.35  |
-|   this model      |               |
+|   this model      |    0.116(train) 0.311(test)          |
 
 
 由表中数据可以看到，当前模型取得了与其它已发表的模型相似的准确度
