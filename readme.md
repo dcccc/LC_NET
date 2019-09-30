@@ -67,7 +67,7 @@
 使用aflow数据对模型训练的得到的结果如下
 
 <p align="center">
-    <img src="error.png" width="100%">
+    <img src="MAE.png" width="100%">
 </p>
 
 其它已发表的机器学习模型的结果对比如下
